@@ -6,43 +6,7 @@
     <description>Recent content in Categories on Sayak&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakkhatua.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>work in progress</title>
-      <link>https://sayakkhatua.netlify.app/categories/work-in-progress/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sayakkhatua.netlify.app/categories/work-in-progress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>peer reviewed</title>
-      <link>https://sayakkhatua.netlify.app/categories/peer-reviewed/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://sayakkhatua.netlify.app/categories/peer-reviewed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workshop</title>
-      <link>https://sayakkhatua.netlify.app/categories/workshop/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://sayakkhatua.netlify.app/categories/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meetup</title>
-      <link>https://sayakkhatua.netlify.app/categories/meetup/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>https://sayakkhatua.netlify.app/categories/meetup/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakkhatua.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>package</title>
       <link>https://sayakkhatua.netlify.app/categories/package/</link>
@@ -67,6 +31,42 @@
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://sayakkhatua.netlify.app/categories/theme-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>article</title>
+      <link>https://sayakkhatua.netlify.app/categories/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakkhatua.netlify.app/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book chapter</title>
+      <link>https://sayakkhatua.netlify.app/categories/book-chapter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakkhatua.netlify.app/categories/book-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work in progress</title>
+      <link>https://sayakkhatua.netlify.app/categories/work-in-progress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakkhatua.netlify.app/categories/work-in-progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work in progrss</title>
+      <link>https://sayakkhatua.netlify.app/categories/work-in-progrss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakkhatua.netlify.app/categories/work-in-progrss/</guid>
       <description></description>
     </item>
     

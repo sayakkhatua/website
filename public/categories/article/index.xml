@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Sayak&#39;s Website</title>
-    <link>https://sayakkhatua.netlify.app/publications/</link>
-    <description>Recent content in Publications on Sayak&#39;s Website</description>
+    <title>article on Sayak&#39;s Website</title>
+    <link>https://sayakkhatua.netlify.app/categories/article/</link>
+    <description>Recent content in article on Sayak&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://sayakkhatua.netlify.app/publications/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Short term v/s Long term effects of forced displacement</title>
-      <link>https://sayakkhatua.netlify.app/publications/dev-displace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sayakkhatua.netlify.app/publications/dev-displace/</guid>
-      <description>This book chapter discusses the impacts of forced displacement due development projects. It discusses theories surrounding forced displacement and case studies from across the world.</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://sayakkhatua.netlify.app/categories/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using big data for evaluating development outcomes: a systematic map</title>
       <link>https://sayakkhatua.netlify.app/publications/big-data-map/</link>

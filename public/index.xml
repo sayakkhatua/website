@@ -6,7 +6,7 @@
     <description>Recent content in Sayak Khatua on Sayak&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakkhatua.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakkhatua.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://sayakkhatua.netlify.app/collection/day02/01-netlify/</link>
@@ -87,51 +87,6 @@ My content section is: collection My layout is: single-series part 2! does this 
     </item>
     
     <item>
-      <title>Calculating power after estimation</title>
-      <link>https://sayakkhatua.netlify.app/research/power-calc/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sayakkhatua.netlify.app/research/power-calc/</guid>
-      <description>Statistical power is the probability of obtaining a significant estimate, conditional on the true size of the underlying effect. Research funders commonly ask for ex-ante power calculations to determine whether the sample size of the proposed research is sufficient to demonstrate an effect. However, ex-ante power calculations often involve subjective judgments. The purpose of our study is to present a simple estimator of power that can be used after a study is completed.</description>
-    </item>
-    
-    <item>
-      <title>A campfire</title>
-      <link>https://sayakkhatua.netlify.app/publications/dev-displace/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://sayakkhatua.netlify.app/publications/dev-displace/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
-    </item>
-    
-    <item>
-      <title>A campfire</title>
-      <link>https://sayakkhatua.netlify.app/research/hispanics/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://sayakkhatua.netlify.app/research/hispanics/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
-    </item>
-    
-    <item>
-      <title>Using big data for evaluating development outcomes: a systematic map</title>
-      <link>https://sayakkhatua.netlify.app/publications/big-data-map/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://sayakkhatua.netlify.app/publications/big-data-map/</guid>
-      <description>The paper is based on a systematic mapping of the studies that use big data to measure and evaluate development outcomes. In this paper we discuss methodological, ethical and practical constraints relating to the use of big data. The systematic map includes impact evaluations (IEs) that use big data to evaluate development outcomes, systematic reviews of big data IEs and other measurement studies that innovatively use big data to measure and validate any development outcomes.</description>
-    </item>
-    
-    <item>
-      <title>Determinants of Private Credit</title>
-      <link>https://sayakkhatua.netlify.app/research/private-credit/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>https://sayakkhatua.netlify.app/research/private-credit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tachyons for Style</title>
       <link>https://sayakkhatua.netlify.app/project/giraffes/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
@@ -199,6 +154,25 @@ Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreen
     </item>
     
     <item>
+      <title>Determinants of Private Credit</title>
+      <link>https://sayakkhatua.netlify.app/research/private-credit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakkhatua.netlify.app/research/private-credit/</guid>
+      <description>Cesar Rodriguez, Portland State University</description>
+    </item>
+    
+    <item>
+      <title>Human Capital Investments of Young Hispanics- The Bright Side of the Great Recession?</title>
+      <link>https://sayakkhatua.netlify.app/research/hispanics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakkhatua.netlify.app/research/hispanics/</guid>
+      <description>Abstract
+This paper analyzes the impact of the labor demand shocks in- duced by the Great Recession on the human capital investments of young Hispanics, a disadvantaged sub-group in United States on the basis of their education. Using a Bartik approach where we construct labor demand shocks separately by race group and ethnicity at the metropolitan area level to analyze their impact on schooling decision of young cohorts. We find that the higher responsiveness of young Hispanics, even conditional on the differential size of the shock expe- rienced by Hispanics relative to other groups, can explain more than half of the observed convergence in High School dropout rates and college attendance rates between Hispanics and other groups following the Great Recession.</description>
+    </item>
+    
+    <item>
       <title>License</title>
       <link>https://sayakkhatua.netlify.app/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -206,6 +180,34 @@ Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreen
       <guid>https://sayakkhatua.netlify.app/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
 Turtle icons created by Freepik - Flaticon</description>
+    </item>
+    
+    <item>
+      <title>Power to the Researchers - Calculating power after estimation</title>
+      <link>https://sayakkhatua.netlify.app/research/power-calc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakkhatua.netlify.app/research/power-calc/</guid>
+      <description>Abstract
+Statistical power is the probability of obtaining a significant estimate, conditional on the true size of the underlying effect. Research funders commonly ask for ex-ante power calculations to determine whether the sample size of the proposed research is sufficient to demonstrate an effect. However, ex-ante power calculations often involve subjective judgments. The purpose of our study is to present a simple estimator of power that can be used after a study is completed.</description>
+    </item>
+    
+    <item>
+      <title>Short term v/s Long term effects of forced displacement</title>
+      <link>https://sayakkhatua.netlify.app/publications/dev-displace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakkhatua.netlify.app/publications/dev-displace/</guid>
+      <description>This book chapter discusses the impacts of forced displacement due development projects. It discusses theories surrounding forced displacement and case studies from across the world.</description>
+    </item>
+    
+    <item>
+      <title>Using big data for evaluating development outcomes: a systematic map</title>
+      <link>https://sayakkhatua.netlify.app/publications/big-data-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakkhatua.netlify.app/publications/big-data-map/</guid>
+      <description>The paper is based on a systematic mapping of the studies that use big data to measure and evaluate development outcomes. In this paper we discuss methodological, ethical and practical constraints relating to the use of big data. The systematic map includes impact evaluations (IEs) that use big data to evaluate development outcomes, systematic reviews of big data IEs and other measurement studies that innovatively use big data to measure and validate any development outcomes.</description>
     </item>
     
   </channel>

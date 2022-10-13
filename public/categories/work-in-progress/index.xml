@@ -5,15 +5,25 @@
     <link>https://sayakkhatua.netlify.app/categories/work-in-progress/</link>
     <description>Recent content in work in progress on Sayak&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakkhatua.netlify.app/categories/work-in-progress/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://sayakkhatua.netlify.app/categories/work-in-progress/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Calculating power after estimation</title>
+      <title>Human Capital Investments of Young Hispanics- The Bright Side of the Great Recession?</title>
+      <link>https://sayakkhatua.netlify.app/research/hispanics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakkhatua.netlify.app/research/hispanics/</guid>
+      <description>Abstract
+This paper analyzes the impact of the labor demand shocks in- duced by the Great Recession on the human capital investments of young Hispanics, a disadvantaged sub-group in United States on the basis of their education. Using a Bartik approach where we construct labor demand shocks separately by race group and ethnicity at the metropolitan area level to analyze their impact on schooling decision of young cohorts. We find that the higher responsiveness of young Hispanics, even conditional on the differential size of the shock expe- rienced by Hispanics relative to other groups, can explain more than half of the observed convergence in High School dropout rates and college attendance rates between Hispanics and other groups following the Great Recession.</description>
+    </item>
+    
+    <item>
+      <title>Power to the Researchers - Calculating power after estimation</title>
       <link>https://sayakkhatua.netlify.app/research/power-calc/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sayakkhatua.netlify.app/research/power-calc/</guid>
-      <description>Statistical power is the probability of obtaining a significant estimate, conditional on the true size of the underlying effect. Research funders commonly ask for ex-ante power calculations to determine whether the sample size of the proposed research is sufficient to demonstrate an effect. However, ex-ante power calculations often involve subjective judgments. The purpose of our study is to present a simple estimator of power that can be used after a study is completed.</description>
+      <description>Abstract
+Statistical power is the probability of obtaining a significant estimate, conditional on the true size of the underlying effect. Research funders commonly ask for ex-ante power calculations to determine whether the sample size of the proposed research is sufficient to demonstrate an effect. However, ex-ante power calculations often involve subjective judgments. The purpose of our study is to present a simple estimator of power that can be used after a study is completed.</description>
     </item>
     
   </channel>
