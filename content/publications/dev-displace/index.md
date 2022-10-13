@@ -1,29 +1,28 @@
 ---
-author: Alison Hill
-categories:
-- workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+author:
+categories: 
+- book chapter
+date: "2019"
+date_end: 
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
-featured: true
+event: 
+event_url: 
+excerpt: 
+featured: false
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-location: Sydney, Australia
+links: false
+#- icon: door-open
+#  icon_pack: fas
+#  name: PDF
+#  url: https://bakeoff.netlify.com/
+#- icon: github
+#  icon_pack: fab
+#  name: Data and Code
+#  url: https://github.com/apreshill/bakeoff
+location: 
 show_post_time: false
-subtitle: Testing
-title: A campfire
+subtitle: with Venga Sarma
+title: Short term v/s Long term effects of forced displacement
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+This book chapter discusses the impacts of forced displacement due development projects. It discusses theories surrounding forced displacement and case studies from across the world.

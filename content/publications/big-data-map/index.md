@@ -1,12 +1,10 @@
 ---
-author: with F.Rathinam, Z.Siddiqui,  M.Malik, P. Duggal, S. Watson, X. Vollenweider
+author: 
 categories:
-- peer reviewed
-date: "2021-01-12"
-date_end: "2021-01-13"
+- article
+date: "2021"
 draft: false
-event: 
-event_url: 
+
 excerpt: The paper is based on a systematic mapping of the studies that use big data  to measure and evaluate development outcomes.
 featured: true
 layout: single
@@ -14,14 +12,11 @@ links:
 - icon: door-open
   icon_pack: fas
   name: Open Access
-  url: https://doi.org/10.1002/cl2.1149
-- icon: dataverse
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  url:  https://doi.org/10.1002/cl2.1149
+
 location: 
 show_post_time: false
-subtitle:
+subtitle: with F.Rathinam, Z.Siddiqui,  M.Malik, P. Duggal, S. Watson, X. Vollenweider
 title: "Using big data for evaluating development outcomes: a systematic map"
 ---
 

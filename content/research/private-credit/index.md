@@ -1,14 +1,15 @@
 ---
-author: Sayak Khatua
-categories:
-- meetup
-date: "2021-01-01T14:15:59-06:00"
-date_end: "2021-01-01T14:45:59-06:00"
+author: 
+categories: 
+- work in progrss
+date: "2022"
+
 draft: false
-excerpt: Yet another idea
+excerpt: 
 layout: single
-location: Online
-subtitle: Testing
+location: 
+subtitle: with Cesar Rodriguez
 title: Determinants of Private Credit
 ---
 
+> Cesar Rodriguez, Portland State University

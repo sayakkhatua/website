@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>work in progress on Sayak&#39;s Website</title>
+    <link>https://sayakkhatua.netlify.app/categories/work-in-progress/</link>
+    <description>Recent content in work in progress on Sayak&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakkhatua.netlify.app/categories/work-in-progress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calculating power after estimation</title>
+      <link>https://sayakkhatua.netlify.app/research/power-calc/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakkhatua.netlify.app/research/power-calc/</guid>
+      <description>Statistical power is the probability of obtaining a significant estimate, conditional on the true size of the underlying effect. Research funders commonly ask for ex-ante power calculations to determine whether the sample size of the proposed research is sufficient to demonstrate an effect. However, ex-ante power calculations often involve subjective judgments. The purpose of our study is to present a simple estimator of power that can be used after a study is completed.</description>
+    </item>
+    
+  </channel>
+</rss>

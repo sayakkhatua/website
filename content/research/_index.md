@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /research/
-description: List of my current research projects
+description:
 layout: list-grid
 show_author_byline: true
 show_button_links: false
@@ -22,7 +22,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: A Sidebar for Your Projects
-title: Research in Progress
+title: Current Resesarch
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
