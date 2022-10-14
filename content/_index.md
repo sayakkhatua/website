@@ -1,7 +1,7 @@
 ---
 title: "Sayak Khatua"
 subtitle: "PhD student, School of Public Policy, Oregon State University"
-description: Site under construction...  
+description:   
 images:
   # goes in /static/img
   - img/sayak.png

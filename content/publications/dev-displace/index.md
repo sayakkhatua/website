@@ -26,3 +26,5 @@ title: Short term v/s Long term effects of forced displacement
 ---
 
 This book chapter discusses the impacts of forced displacement due development projects. It discusses theories surrounding forced displacement and case studies from across the world.
+
+> Venga Sarma, University of Nottingham, Malaysia
