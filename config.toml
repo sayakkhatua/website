@@ -136,11 +136,11 @@ enableEmoji = true
     title = "Publications"
     url = "/publications/"
     weight = 3
-  #[[menu.header]]
-   # name = "Talks"
-    #title = "Talks"
-    #url = "/talk/"
-    #weight = 4
+  [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teaching/"
+    weight = 4
   #[[menu.header]]
    # name = "A collection"
     #title = "A collection"
