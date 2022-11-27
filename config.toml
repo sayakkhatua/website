@@ -105,10 +105,10 @@ enableEmoji = true
    #   icon      = "impactstory" # icon name without the 'fa-'
     #  icon_pack = "ai"
      # url       = "https://impactstory.org/u/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+  #[[params.social]]
+   #   icon      = "orcid" # icon name without the 'fa-'
+    #  icon_pack = "ai"
+     # url       = "http://orcid.org/0000-0002-8082-1890"
   #[[params.social]]
    #   icon      = "rss" # icon name without the 'fa-'
     #  icon_pack = "fas"
@@ -136,11 +136,11 @@ enableEmoji = true
     title = "Publications"
     url = "/publications/"
     weight = 3
-  [[menu.header]]
-    name = "Teaching"
-    title = "Teaching"
-    url = "/teaching/"
-    weight = 4
+ # [[menu.header]]
+  #  name = "Teaching"
+   # title = "Teaching"
+    #url = "/teaching/"
+    #weight = 4
   #[[menu.header]]
    # name = "A collection"
     #title = "A collection"
