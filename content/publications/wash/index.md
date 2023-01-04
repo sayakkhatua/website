@@ -15,7 +15,10 @@ links:
   icon_pack: fas
   name: Preprint
   url: https://osf.io/preprints/metaarxiv/g7cmd/
-
+- icon: database
+  icon_pack: fas
+  name: Data and Code
+  url: https://doi.org/10.7910/DVN/IDJ8FJ
 location: 
 show_post_time: false
 subtitle: with Charlotte Lane, Bethany Caruso

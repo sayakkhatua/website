@@ -21,11 +21,13 @@ links: false
 #  url: https://github.com/apreshill/bakeoff
 location: 
 show_post_time: false
-subtitle: with Malvya Chintakindi
-title: Narratives of ethnic minorities on ideas of development- A case study on Meo-muslims
+subtitle: with Monica Jain, Abhirupa Das, Umer Gupta
+title: Telling stories with Pooled data- A methodological perspective
 ---
 
 
 
 
-> Malvya Chintakindi, University of Oregon
+> Monica Jain, Abhirupa Das - International Initiative for Impact Evaluation (3ie)
+
+> Umer Gupta, University of Edinburgh

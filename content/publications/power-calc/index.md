@@ -1,19 +1,19 @@
 ---
 author:
 categories: 
-- work in progress
-date: "2022"
+- working paper
+date: "2023"
 
 draft: false
  
 excerpt: The purpose of our study is to present a simple estimator of power that can be used after a study is completed.
 featured: true
 layout: single
-links: false
-#- icon: door-open
-#  icon_pack: fas
-#  name: PDF
-#  url: https://bakeoff.netlify.com/
+links: 
+- icon: door-open
+  icon_pack: fas
+  name: Working Paper
+  url: https://ideas.repec.org/p/cbt/econwp/22-17.html
 #- icon: github
 #  icon_pack: fab
 #  name: Data and Code
