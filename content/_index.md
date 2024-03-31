@@ -9,7 +9,7 @@ image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true
-action_link: /about/Sayak_Khatua_CV_2022.pdf
+action_link: /about/CV_2024.pdf
 action_label: "Link to my CV"
 action_type: text # text, button
 type: home
