@@ -11,8 +11,6 @@ link_list:
 #  url: https://en.wikipedia.org/wiki/Paris
 - name: International Development
 #  url: https://en.wikipedia.org/wiki/Pastry
-- name: Emerging Technology
-#  url: https://en.wikipedia.org/wiki/People
 ---
 
 ** index doesn't contain a body, just front matter above.
